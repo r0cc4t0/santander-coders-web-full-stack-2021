@@ -19,6 +19,14 @@ Códigos desenvolvidos durante o curso ministrado pela Let's Code na fase 2 do S
 * Aula 12: Reduce
 
 ### Módulo 2: Programação Orientada a Objetos
+* Aula 01: Introdução à Orientação a Objetos
+* Aula 02: Classe e Construtor
+* Aula 03: Atributos
+* Aula 04: Métodos
+* Aula 05: Encapsulamento
+* Aula 06: Métodos de Acesso
+* Aula 07: Herança e Polimorfismo
+* Aula 08: Fechamento - Lógica de Programação
 
 ### Módulo 3: React - Componentes Tipo Classe
 
