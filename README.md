@@ -29,5 +29,16 @@ Códigos desenvolvidos durante o curso ministrado pela Let's Code na fase 2 do S
 * Aula 08: Fechamento - Lógica de Programação
 
 ### Módulo 3: React - Componentes Tipo Classe
+* Aula 01: Introdução ao React
+* Aula 02: Introdução aos Componentes
+* Aula 03: Instalação
+* Aula 04: Componente Simples
+* Aula 05: Propriedades (Props)
+* Aula 06: Estado
+* Aula 07: Renderização Condicional
+* Aula 08: Ciclo de Vida
+* Aula 09: Renderização de Listas
+* Aula 10: Componentes Aninhados
+* Aula 11: Formulários
 
 ### Módulo 4: React - Componentes Funcionais
