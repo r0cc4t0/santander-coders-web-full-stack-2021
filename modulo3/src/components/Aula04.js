@@ -8,6 +8,7 @@ class Aula04 extends React.Component {
       <>
         <p>Meu primeiro parágrafo.</p>
         <p>Meu segundo parágrafo.</p>
+        <pre>Texto pré-formatado.</pre>
         <p>{new Date().toLocaleDateString('pt-br')}</p>
       </>
     );

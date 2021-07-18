@@ -5,7 +5,7 @@ console.log(vetor[2]);
 vetor[2] = '30';
 console.log(vetor[2]);
 
-let vetor2 = []
+let vetor2 = [];
 for (let i = 0; i < 10; i++) {
   vetor2.push(i);
 }

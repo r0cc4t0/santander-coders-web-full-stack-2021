@@ -6,7 +6,7 @@ import Aula03 from './components/Aula03';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Aula01 text="Hello, World!">
+    <Aula01 text='Hello, World!'>
       <h1>Exemplo de Teste.</h1>
     </Aula01>
     <Aula02 />

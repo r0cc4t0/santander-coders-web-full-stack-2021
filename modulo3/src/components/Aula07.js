@@ -44,7 +44,7 @@ class Aula07 extends React.Component {
     //   return (
     //     <>
     //       <label>
-    //         Nome: <input type="text" id="name" value={this.state.name} onChange={this.changeTextName} />
+    //         Nome: <input type="text" value={this.state.name} onChange={this.changeTextName} />
     //       </label>
     //       <button onClick={this.persistName}>Salvar</button>
     //     </>

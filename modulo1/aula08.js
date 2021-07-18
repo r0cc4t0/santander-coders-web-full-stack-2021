@@ -14,7 +14,7 @@ escreva(resultado);
 
 const multiplicar = function (a, b) {
   return a * b;
-}
+};
 escreva(multiplicar(2, 3));
 
 const potencia = (a, b) => Math.pow(a, b);

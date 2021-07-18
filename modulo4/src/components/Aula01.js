@@ -19,6 +19,6 @@ const Aula01 = props => {
       {props.children}
     </>
   );
-}
+};
 
 export default Aula01;

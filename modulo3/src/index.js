@@ -20,12 +20,8 @@ ReactDOM.render(
     <Aula08 />
     <Aula09 />
     <Aula10>
-      <Item key={5} id={5} completo={false}>
-        Item 5
-      </Item>
-      <Item key={6} id={6} completo={true}>
-        Item 6
-      </Item>
+      <Item key={5} id={5} completo={false}>Item 5</Item>
+      <Item key={6} id={6} completo={true}>Item 6</Item>
       Item 7
     </Aula10>
     <Aula11 />
