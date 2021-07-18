@@ -42,3 +42,6 @@ Códigos desenvolvidos durante o curso ministrado pela Let's Code na fase 2 do S
 * Aula 11: Formulários
 
 ### Módulo 4: React - Componentes Funcionais
+* Aula 01: Introdução aos Componentes Funcionais
+* Aula 02: Hook de Estado
+* Aula 03: Hook de Efeitos
